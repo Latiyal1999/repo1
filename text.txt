@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5A56-3324
+
+ Directory of C:\Users\Syn_A\OneDrive\Desktop\new project
+
+04-04-2022  18:16    <DIR>          .
+04-04-2022  18:16    <DIR>          ..
+04-04-2022  18:16                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  59,895,291,904 bytes free
